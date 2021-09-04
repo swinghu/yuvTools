@@ -30,4 +30,4 @@
 1.  本案例集在win10 上验证通过，mac os上没有验证
 
 ## show
-(SHOW.png)
+!+[]+(SHOW.png)
