@@ -30,4 +30,6 @@
 1.  本案例集在win10 上验证通过，mac os上没有验证
 
 ## show
-!+[]+(SHOW.png)
+<p align="center">
+  <img src="./yuvTools/SHOW.png" alt="drawing" height="200"/>
+</p>
