@@ -29,7 +29,7 @@
 ## 说明
 1.  本案例集在win10 上验证通过，mac os上没有验证
 
-## show
+## 运行界面
 <p align="center">
   <img src="./SHOW.PNG" alt="drawing" height="600"/>
 </p>
