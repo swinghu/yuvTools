@@ -5,7 +5,7 @@ gooey_images = Tree(os.path.join(gooey_root, 'images'), prefix = 'gooey/images')
 
 # C:\\Users\siwenhu\\PycharmProjects\\yuvTools
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\siwenhu\\PycharmProjects\\yuvTools'],
+             pathex=['C:\\yuvTools'],
              hiddenimports=[],
              hookspath=None,
              runtime_hooks=None,
