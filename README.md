@@ -31,5 +31,5 @@
 
 ## show
 <p align="center">
-  <img src="./yuvTools/SHOW.png" alt="drawing" height="200"/>
+  <img src="./SHOW.png" alt="drawing" height="200"/>
 </p>
