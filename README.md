@@ -21,8 +21,9 @@
     pip install -r requirements.txt
 
 ## 打包文件
-项目代码已经包含了 build.spec 文件，你只需要修改里面的参数 pathex=['C:\\Users\siwenhu\\PycharmProjects\\yuvTools'], 改为自己的
-系统目录
+项目代码已经包含了 build.spec 文件，你只需要修改里面的参数 `pathex=['C:\\Users\siwenhu\\PycharmProjects\\yuvTools']`, 
+<p>改为自己的系统目录,然后执行：
+
     pyinstaller build.spec
 
 
